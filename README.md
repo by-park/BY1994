@@ -7,15 +7,16 @@ Embedded Software Engineer
 ###  Open Source Contributions
 
 - as sub-maintainer
-  - mytreepy: tree command for window which makes it possible to show only specific depth level (usage: pip install mytreepy / treepy -L 1)
+  - mytreepy ([Python Package](https://pypi.org/project/mytreepy/), [Source Code](https://github.com/BY1994/treepy)): tree command for window which makes it possible to show only specific depth level (usage: pip install mytreepy / treepy -L 1)
 
 - as contributor
-  - tensorflow documentation: translation in Korean
+  - tensorflow documentation ([Documentation](https://github.com/BY1994/docs)): translation in Korean
 
 
 
 ### Side Projects
 
+- Egg Timer ([Android Application](https://play.google.com/store/apps/details?id=com.chocotech.egg_timer))
 - In progress
 
 
